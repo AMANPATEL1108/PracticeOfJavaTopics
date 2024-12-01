@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import sun.reflect.generics.tree.Tree;
 
 import java.util.TreeMap;

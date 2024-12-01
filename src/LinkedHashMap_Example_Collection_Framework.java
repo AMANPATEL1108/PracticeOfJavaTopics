@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.LinkedHashMap;
 
 public class LinkedHashMap_Example_Collection_Framework {

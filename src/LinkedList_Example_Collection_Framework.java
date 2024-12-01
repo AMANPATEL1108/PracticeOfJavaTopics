@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.LinkedList;
 
 public class LinkedList_Example_Collection_Framework {

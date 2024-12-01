@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 class  Base{
 
     int x;

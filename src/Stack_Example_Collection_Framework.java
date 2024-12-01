@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.Stack;
 
 public class Stack_Example_Collection_Framework {

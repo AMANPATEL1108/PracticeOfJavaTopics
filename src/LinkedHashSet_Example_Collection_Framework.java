@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.LinkedHashSet;
 
 public class LinkedHashSet_Example_Collection_Framework {

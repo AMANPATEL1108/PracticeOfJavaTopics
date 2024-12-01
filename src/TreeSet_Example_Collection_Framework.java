@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.TreeSet;
 
 public class TreeSet_Example_Collection_Framework {

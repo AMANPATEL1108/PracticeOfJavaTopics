@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 class EkClass{
     int a;
     EkClass(int a){

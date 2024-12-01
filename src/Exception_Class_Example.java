@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.Scanner;
 
 class MyException extends Exception{

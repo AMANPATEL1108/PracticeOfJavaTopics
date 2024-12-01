@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.ArrayDeque;
 
 public class ArrayDeque_Example_Collection_Framework {

@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 class Base1{
     Base1(){
         System.out.println("I am a Base 1 Simple ClassConstructor");

@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.HashSet;
 import java.util.Stack;
 

@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 class Calculator {
     // Overloaded methods
     int add(int a, int b) {

@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 public class Nested_Try_Catch_Example {
     public static void main(String[] args) {
         int[] marks=new int[3];

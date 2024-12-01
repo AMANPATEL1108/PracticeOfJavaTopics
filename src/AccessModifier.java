@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 class C1{
     public  int x=5;                          //access=Class,Package,SubClass,Word
     protected  int y=45;                      //access=Class,package,subclass                         //Not-Word

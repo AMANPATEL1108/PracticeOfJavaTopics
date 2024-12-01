@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 public class Prcatice {
     public static void main(String[] args) {
 

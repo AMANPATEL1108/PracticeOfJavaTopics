@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.HashMap;
 
 public class HashMap_Example_Collection_Framework {

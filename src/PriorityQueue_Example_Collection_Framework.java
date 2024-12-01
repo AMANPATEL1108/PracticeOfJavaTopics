@@ -1,5 +1,3 @@
-package CoreJava_BasicTopics;
-
 import java.util.PriorityQueue;
 
 public class PriorityQueue_Example_Collection_Framework {

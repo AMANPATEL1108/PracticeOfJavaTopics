@@ -1,3 +1,5 @@
+package CoreJava_BasicTopics;
+
 import java.util.Scanner;
 
 public class Classesss {

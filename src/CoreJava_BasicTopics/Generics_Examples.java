@@ -1,3 +1,5 @@
+package CoreJava_BasicTopics;
+
 import java.util.ArrayList;
 
 class MyGeneric<T1,T2>{

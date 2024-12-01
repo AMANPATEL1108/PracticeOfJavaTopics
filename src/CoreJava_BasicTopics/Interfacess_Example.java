@@ -1,3 +1,5 @@
+package CoreJava_BasicTopics;
+
 // Defining an interface
 interface Animal {
     void sound(); // Abstract method

@@ -1,3 +1,5 @@
+package CoreJava_BasicTopics;
+
 public class Throw_Throws_Example {
 
   public   static int divide(int a,int b) throws ArithmeticException{  //or use in any where we can throw Exception where i want like if statements or others
